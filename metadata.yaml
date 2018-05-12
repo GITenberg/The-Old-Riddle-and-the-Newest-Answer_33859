@@ -1,0 +1,27 @@
+_repo: The-Old-Riddle-and-the-Newest-Answer_33859
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33859-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gerard, John
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '36738'
+    url: http://www.gutenberg.org/2009/agents/36738
+description: ''
+gutenberg_issued: '2010-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution'
+- !lcsh 'Religion and science'
+title: The Old Riddle and the Newest Answer
+url: http://www.gutenberg.org/ebooks/33859
